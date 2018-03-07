@@ -1,4 +1,4 @@
-# Laravel PHP Framework <br />
+# InstaClone-API <br />
 <br />
 Api Written In Laravel For InstaClone App To Deal With:<br />
 <br />
