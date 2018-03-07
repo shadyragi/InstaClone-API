@@ -1,10 +1,10 @@
-# Laravel PHP Framework
-
-Api Written In Laravel For InstaClone App To Deal With:
-
-- Request Validation
-- User's Login/Signup
-- Adding/Removing Posts
-- Adding/Removing Comments
-- Follow Other Users
-_ Adding Stories
+# Laravel PHP Framework <br />
+<br />
+Api Written In Laravel For InstaClone App To Deal With:<br />
+<br />
+- Request Validation <br />
+- User's Login/Signup <br />
+- Adding/Removing Posts <br />
+- Adding/Removing Comments <br />
+- Follow Other Users <br />
+_ Adding Stories <br />
